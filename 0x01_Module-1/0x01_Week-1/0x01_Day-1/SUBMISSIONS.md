@@ -12,10 +12,10 @@ Welcome, participants! Here's where you can submit your blog posts and share you
 
 ---
 
-### Participant 2: [Your Name]
+### Participant 2: [Gweth Ezri Daniel]
 
-- **Blog Post:** [Link to Your Blog Post](insert_link_here)
-- **GitHub Repository:** [Link to Your GitHub Repo](insert_link_here)
+- **Blog Post:** [Link to Your Blog Post](https://github.com/EzriDaniel/SES_WEB_DESIGN_MENTORSHIP_/commit/650dedab538e789adf21e23fedaa1e4037cbc567)
+- **GitHub Repository:** [Link to Your GitHub Repo]((https://github.com/EzriDaniel/SES_WEB_DESIGN_MENTORSHIP_))
 - **Social Media Profile (Optional):** [Link to Your Social Media Profile](insert_link_here)
 
 ---
